@@ -1,0 +1,249 @@
+
+    @font-face {
+        font-family: Gabriela ;
+        src: url("./fonts/Gabriela-Regular.ttf");
+    }
+
+
+
+
+.main1{
+    background-color:  #F0F8FF;
+}
+
+
+
+.name{
+    borr: 2px solid red;
+    text-decoration: underline;
+    text-decoration-color: #006400;
+    color: red;
+    font-weight: bold;
+    font-family: Gabriela ;
+    font-size: 30px;
+    text-shadow: 2px 2px 3px gray;
+
+    
+}
+navbar{
+    background-color: #D3D3D3 !important;
+}
+.nav-link{
+    font-weight: bold;
+    color: white !important;
+    margin-left: 5px;
+}
+.carousel{
+    padding-top: 10px;
+}
+
+.intromain{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    
+}
+.intro{
+    
+    color: black;
+    font-size: 30px;
+    font-weight: ;
+}
+/* @media screen and (max-width : 1600px){
+ 
+    .intro>img{
+        width: 100px;
+    }
+    
+}
+
+@media screen and (max-width : 1300px){
+ 
+    .intro>img{
+        width: 100px;
+    }
+    
+}
+@media screen and (max-width : 900px){
+ 
+    .intro>img{
+        width: 100px;
+    }
+    
+} */
+
+
+
+
+.nameint{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    text-decoration-color: #006400;
+    color: red;
+    font-weight: bold;
+    font-family: Gabriela ;
+    font-size: 40px;
+    text-shadow: 2px 2px 3px gray;
+  
+}
+
+
+.par{
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-family: Gabriela ;
+}
+    
+}
+.para{
+    line-height: 1.5em;
+color: rgb(5, 8, 0);
+}
+.name1{
+    borr: 2px solid red;
+    text-decoration: underline;
+    text-decoration:2;
+    text-decoration-color: #006400;
+    color: red;
+    font-weight: bold;
+    font-family: Gabriela ;
+    font-size: 40px;
+    text-shadow: 2px 2px 3px gray;
+}
+
+
+
+/* .mainwhat{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.what1{
+    background-color: rgb(241, 240, 240);
+}
+
+.card1 ,.card2, .card3,.card4,.card5,.card6{
+    display: flex;
+    font-size: 30px;
+    width: 400px;
+    height: 150px;
+    box-shadow: 2px 2px 5px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#mar{
+    margin-right: 10px;
+}
+
+@media screen and (max-width : 600px){
+    .card1 ,.card2, .card3,.card4,.card5,.card6{
+        width: 100%;
+    }
+
+} */
+
+.card{
+    width: 350px;
+    height: 370px !important;
+    margin-bottom:15px;
+    margin-top: 20px;
+    background-color:  #D3D3D3;
+
+}
+@media screen and (max-width : 1366px){
+    .card{ width: 250px !important;
+
+    }
+}
+@media screen and (max-width:480px){
+    .card{
+        width: 100% !important;
+    }
+}
+@media screen and (max-width:720px){
+    .card{
+        width: 100% !important;
+    }
+}
+
+
+.card-title{
+    text-decoration: underline;
+    text-decoration-color: #006400;
+color: red;
+    font-weight: bold;
+    font-family: Gabriela ;
+}
+
+.btn-primary{
+    background-color: red;
+    width: 100%;
+}
+.row{
+    justify-content: space-between;
+}
+.what1{
+    background-color:  #F0F8FF;
+    margin-bottom: 30px;
+}
+
+
+@media screen and (max-width : 600px){
+    .card{
+        width: 100%;}
+}
+
+
+
+ .foot1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    padding-bottom: 20px;
+} 
+.f1,.f2,.f3{
+    width: 300px;
+color: white;
+font-family: Gabriela ;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.f2{
+    text-decoration: underline green;
+}
+.con1{
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+
+li{
+    display: inline;
+}
+.fb{
+    margin-left: 10px;
+}
+
+@media screen and (max-width : 750px){
+.f2{
+    width: 400px;
+}
+
+}
+
+
+.copy{
+    margin-left: 100px;
+}
